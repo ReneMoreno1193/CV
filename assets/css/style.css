@@ -1,0 +1,11 @@
+body{
+    background-color: hsl(37, 14%, 82%);
+    padding-left: 15px;
+}
+
+footer {
+    background-color: hsl(37, 14%, 82%);
+    padding: 10px;
+    color: #c94343;
+    text-align: center;
+}
